@@ -7,7 +7,7 @@ API was created using Django Rest Framework.
 ## Set up and run project:
 
 
-You should change your work directory to 'api_test_task', activate your virtual environment(if you ara using it) and run commands:
+You should change your work directory to 'api_test_task', activate your virtual environment(if you are using it) and run commands:
 ```
 pip install -r requirements.txt
 python manage.py makemigrations
