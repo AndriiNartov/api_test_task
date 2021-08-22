@@ -3,4 +3,4 @@ language: python
 python:
   - '3.9'
 
-script: python manage.py test
+script: coverage manage.py test
