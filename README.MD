@@ -127,3 +127,4 @@ coverage report
 If you are going to deploy django application like this on production server, you should remember to 'hide' your SECRET_KEY from settings.py
 to environment variable and set DEBUG mode to False. Otherwise, your application will not secure.
 
+[![Build Status](https://app.travis-ci.com/AndriiNartov/api_test_task.svg?branch=main)](https://app.travis-ci.com/AndriiNartov/api_test_task)
