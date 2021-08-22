@@ -3,4 +3,6 @@ language: python
 python:
   - '3.9'
 
-script: coverage run --source='.' manage.py test .
+script:
+  - coverage run --source='.' manage.py test .
+  - coverage report
